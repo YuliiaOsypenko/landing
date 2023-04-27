@@ -1,0 +1,15 @@
+.features__title {
+    color: var(--text-color);
+}
+
+.features__text {
+    color: var(--second-text-color);
+}
+
+.features__item-title {
+    color: var(--text-color);
+}
+
+.features__item-text {
+    color: var(--second-text-color);
+}

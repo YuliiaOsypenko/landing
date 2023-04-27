@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --title-text-color: #FFFFFF;
+    --text-color:#252B42;
+    --second-text-color:#374754
+    scroll-behavior: smooth;
+}
